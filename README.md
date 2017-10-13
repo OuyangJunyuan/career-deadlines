@@ -1,6 +1,6 @@
-## AI Deadlines
+## Neuro Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/AI conference deadlines.
+Countdown timers to keep track of Neuroscience and related fields conference deadlines.
 
 ## Adding/updating a conference
 
@@ -15,3 +15,5 @@ Countdown timers to keep track of a bunch of CV/NLP/ML/AI conference deadlines.
 
 [1]: https://abhshkdz.mit-license.org/
 [2]: http://aideadlin.es/
+
+Thanks to Abhishek Das for building the original site, ai-deadlin.es!
