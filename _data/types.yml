@@ -1,4 +1,6 @@
 ---
-- name: Cognitive Neuroscience
-  sub: CN
+- name: Cognitive
+  sub: CG
+- name: Computational
+  sub: CM
 

@@ -2,12 +2,20 @@
 
 - name: CNS
   year: 2018
-  id: cns2018
+  id: cns18
   link: https://www.cogneurosociety.org/
   deadline: "2017-10-16 23:59:59"
   timezone: Etc/GMT
   date: March 24-27, 2018
   place: Boston, MA, USA
-  sub: CN
-
+  sub: CG
+- name: NIPS
+  year: 2018
+  id: nips18
+  link: https://nips.cc/Conferences/2018
+  deadline: "TBA"
+  timezone: Etc/GMT
+  date: December 3-8, 2018
+  place: Montreal, QC, Canada
+  sub: CM
 
