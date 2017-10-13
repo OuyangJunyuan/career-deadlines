@@ -9,6 +9,7 @@
   date: March 24-27, 2018
   place: Boston, MA, USA
   sub: CG
+
 - name: NIPS
   year: 2018
   id: nips18
@@ -18,4 +19,13 @@
   date: December 3-8, 2018
   place: Montreal, QC, Canada
   sub: CM
-
+  
+- name: SfN
+  year: 2018
+  id: sfn18
+  link: https://www.sfn.org
+  deadline: "TBA"
+  timezone: Etc/GMT
+  date: November 3-7, 2018
+  place: San Diego, CA, USA
+  sub: GE
