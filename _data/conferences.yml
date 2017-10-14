@@ -10,6 +10,16 @@
   place: Boston, MA, USA
   sub: CG
 
+- name: OHBM
+  year: 2018
+  id: ohbm18
+  link: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3817
+  deadline: "2017-12-15 23:59:59"
+  timezone: Etc/GMT
+  date: June 17-21, 2018
+  place: Singapore
+  sub: IM
+
 - name: NIPS
   year: 2018
   id: nips18
@@ -29,13 +39,3 @@
   date: November 3-7, 2018
   place: San Diego, CA, USA
   sub: GE
-
-- name: OHBM
-  year: 2018
-  id: ohbm18
-  link: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3817
-  deadline: "2017-12-15 23:59:59"
-  timezone: Etc/GMT
-  date: June 17-21, 2018
-  place: Singapore
-  sub: IM
