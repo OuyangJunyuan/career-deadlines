@@ -20,15 +20,15 @@
   place: Singapore
   sub: IM
 
-- name: NIPS
+- name: SPR
   year: 2018
-  id: nips18
-  link: https://nips.cc/Conferences/2018
+  id: spr18
+  link: https://www.sprweb.org/
   deadline: "TBA"
   timezone: Etc/GMT
-  date: December 3-8, 2018
+  date: October 3-7, 2018
   place: Montreal, QC, Canada
-  sub: CM
+  sub: GE
 
 - name: SfN
   year: 2018
@@ -39,3 +39,13 @@
   date: November 3-7, 2018
   place: San Diego, CA, USA
   sub: GE
+
+- name: NIPS
+  year: 2018
+  id: nips18
+  link: https://nips.cc/Conferences/2018
+  deadline: "TBA"
+  timezone: Etc/GMT
+  date: December 3-8, 2018
+  place: Montreal, QC, Canada
+  sub: CM
