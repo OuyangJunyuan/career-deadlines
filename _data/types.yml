@@ -9,4 +9,6 @@
   sub: IM
 - name: Motor
   sub: MO
+- name: Neuroeconomics
+  sub: NE
 
