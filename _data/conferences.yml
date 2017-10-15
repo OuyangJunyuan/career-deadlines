@@ -40,6 +40,16 @@
   place: Montreal, QC, Canada
   sub: GE
 
+- name: SCAPPS
+  year: 2018
+  id: scapps18
+  link: http://www.scapps.org/
+  deadline: "TBA"
+  timezone: Etc/GMT
+  date: TBA
+  place: Montreal, QC, Canada
+  sub: GE
+
 - name: SfN
   year: 2018
   id: sfn18
