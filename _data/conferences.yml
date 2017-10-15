@@ -40,6 +40,16 @@
   place: Montreal, QC, Canada
   sub: GE
 
+- name: SNE
+  year: 2018
+  id: sne18
+  link: https://neuroeconomics.org/
+  deadline: "2018-06-15 23:59:59"
+  timezone: Etc/GMT
+  date: October 3-7, 2018
+  place: Philadephia, PA, USA
+  sub: NE
+
 - name: SCAPPS
   year: 2018
   id: scapps18
