@@ -10,6 +10,16 @@
   place: Boston, MA, USA
   sub: CG
 
+- name: NOWCAM
+  year: 2018
+  id: nowcam18
+  link: http://web.uvic.ca/~nowcam/?q=home
+  deadline: "TBA"
+  timezone: Etc/GMT
+  date: May 10-12, 2018
+  place: Vancouver, BC, Canada
+  sub: GE
+
 - name: OHBM
   year: 2018
   id: ohbm18
