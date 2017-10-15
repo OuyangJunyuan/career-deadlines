@@ -7,4 +7,6 @@
   sub: GE
 - name: Imaging
   sub: IM
+- name: Motor
+  sub: MO
 
