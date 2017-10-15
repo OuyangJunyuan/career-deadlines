@@ -60,6 +60,16 @@
   place: San Diego, CA, USA
   sub: GE
 
+- name: Psychonomics
+  year: 2018
+  id: psychonomics18
+  link: http://www.psychonomic.org/
+  deadline: "TBA"
+  timezone: Etc/GMT
+  date: November 15-18, 2018
+  place: New Orleans, Louisiana, USA
+  sub: CG
+
 - name: NIPS
   year: 2018
   id: nips18
