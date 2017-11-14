@@ -1,15 +1,5 @@
 ---
 
-- name: CNS
-  year: 2018
-  id: cns18
-  link: https://www.cogneurosociety.org/
-  deadline: "2017-10-16 23:59:59"
-  timezone: Etc/GMT
-  date: March 24-27, 2018
-  place: Boston, MA, USA
-  sub: CG
-
 - name: NOWCAM
   year: 2018
   id: nowcam18
