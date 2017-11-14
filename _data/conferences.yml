@@ -89,3 +89,13 @@
   date: December 3-8, 2018
   place: Montreal, QC, Canada
   sub: CM
+
+- name: RLDM
+  year: 2019
+  id: nrldm19
+  link: https://rldm.org
+  deadline: "TBA"
+  timezone: Etc/GMT
+  date: TBA, 2019
+  place: TBA
+  sub: CM
