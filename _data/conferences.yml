@@ -34,7 +34,7 @@
   year: 2019
   id: sne19
   link: https://neuroeconomics.org/
-  deadline: "2019-06-05 23:59:59"
+  deadline: "2019-06-05"
   timezone: Etc/GMT
   date: October 4-6, 2019
   place: Dublin, Ireland
@@ -44,7 +44,7 @@
   year: 2019
   id: scapps19
   link: http://www.scapps.org/
-  deadline: "2019-06-01 23:59:59"
+  deadline: "2019-06-01"
   timezone: Etc/GMT
   date: October 17-19, 2019
   place: Vancouver, BC, Canada
@@ -54,38 +54,38 @@
   year: 2019
   id: sfn19
   link: https://www.sfn.org
-  deadline: "2019-05-02 22:00:00"
+  deadline: "2019-05-02"
   timezone: Etc/GMT
   date: October 19-23, 2019
   place: Chicago, IL, USA
   sub: GE
 
 - name: Psychonomics
-  year: 2018
-  id: psychonomics18
+  year: 2019
+  id: psychonomics19
   link: http://www.psychonomic.org/
   deadline: "TBA"
   timezone: Etc/GMT
-  date: November 15-18, 2018
-  place: New Orleans, Louisiana, USA
+  date: November 14-17, 2019
+  place: Montreal, QC, Canada
   sub: CG
 
-- name: NIPS
-  year: 2018
-  id: nips18
-  link: https://nips.cc/Conferences/2018
+- name: NeurIPS
+  year: 2019
+  id: neurips19
+  link: https://neurips.cc/
   deadline: "TBA"
   timezone: Etc/GMT
-  date: December 3-8, 2018
-  place: Montreal, QC, Canada
+  date: TBA, 2019
+  place: Vancouver, BC, Canada
   sub: CM
 
 - name: RLDM
   year: 2019
   id: nrldm19
-  link: https://rldm.org
-  deadline: "TBA"
+  link: http://rldm.org/
+  deadline: "2019-05-15"
   timezone: Etc/GMT
-  date: TBA, 2019
-  place: TBA
+  date: July 7-10, 2019
+  place: Montreal, QC, Canada
   sub: CM
