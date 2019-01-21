@@ -1,63 +1,63 @@
 ---
 
 - name: NOWCAM
-  year: 2018
-  id: nowcam18
+  year: 2019
+  id: nowcam19
   link: http://web.uvic.ca/~nowcam/?q=home
   deadline: "TBA"
   timezone: Etc/GMT
-  date: May 10-12, 2018
-  place: Vancouver, BC, Canada
+  date: May 9-11, 2019
+  place: Victoria, BC, Canada
   sub: GE
 
 - name: OHBM
-  year: 2018
-  id: ohbm18
-  link: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3817
-  deadline: "2017-12-15 23:59:59"
+  year: 2019
+  id: ohbm19
+  link: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3882
+  deadline: "TBA"
   timezone: Etc/GMT
-  date: June 17-21, 2018
-  place: Singapore
+  date: June 9-13, 2019
+  place: Rome, Italy
   sub: IM
 
 - name: SPR
-  year: 2018
-  id: spr18
-  link: https://www.sprweb.org/
-  deadline: "TBA"
+  year: 2019
+  id: spr19
+  link: https://sprweb.org/page/2019_Annual_Meeting
+  deadline: "2019-02-08 23:59:59"
   timezone: Etc/GMT
-  date: October 3-7, 2018
-  place: Montreal, QC, Canada
+  date: September 25-29, 2019
+  place: Washington, DC, USA
   sub: GE
 
 - name: SNE
-  year: 2018
-  id: sne18
+  year: 2019
+  id: sne19
   link: https://neuroeconomics.org/
-  deadline: "2018-06-15 23:59:59"
+  deadline: "2019-06-05 23:59:59"
   timezone: Etc/GMT
-  date: October 3-7, 2018
-  place: Philadephia, PA, USA
+  date: October 4-6, 2019
+  place: Dublin, Ireland
   sub: NE
 
 - name: SCAPPS
-  year: 2018
-  id: scapps18
+  year: 2019
+  id: scapps19
   link: http://www.scapps.org/
-  deadline: "TBA"
+  deadline: "2019-06-01 23:59:59"
   timezone: Etc/GMT
-  date: TBA
-  place: Montreal, QC, Canada
+  date: October 17-19, 2019
+  place: Vancouver, BC, Canada
   sub: MO
 
 - name: SfN
-  year: 2018
-  id: sfn18
+  year: 2019
+  id: sfn19
   link: https://www.sfn.org
-  deadline: "TBA"
+  deadline: "2019-05-02 22:00:00"
   timezone: Etc/GMT
-  date: November 3-7, 2018
-  place: San Diego, CA, USA
+  date: October 19-23, 2019
+  place: Chicago, IL, USA
   sub: GE
 
 - name: Psychonomics
