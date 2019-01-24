@@ -1,5 +1,15 @@
 ---
 
+- name: CAN-ACN
+  year: 2019
+  id: canacn19
+  link: https://can-acn.org/meeting-2019
+  deadline: "TBA"
+  timezone: Etc/GMT
+  date: May 22-25, 2019
+  place: Toronto, ON, Canada
+  sub: GE
+
 - name: NOWCAM
   year: 2019
   id: nowcam19
