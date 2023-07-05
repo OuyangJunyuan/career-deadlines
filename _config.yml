@@ -3,8 +3,8 @@ title: Neuroscience Deadlines # (Maintained by @abhshkdz)
 description: Countdowns to top neuroscience (& related fields) conference abstract submission deadlines. Deadlines are approximate due to timezones; always check the conference page!
 author: T. Bryn Grey
 
-domain: "neuro-deadlines.tbryngrey.com"
-baseurl: ""
+# domain: "neuro-deadlines.tbryngrey.com"
+# baseurl: ""
 
 twitter_username: tbryngrey
 twitter_hashtag: neuroscience
